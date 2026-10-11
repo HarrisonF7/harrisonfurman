@@ -8,7 +8,7 @@ export interface SiteContent {
 export const content: SiteContent = {
   name: 'Harrison Furman',
   introduction: 'I’m Harrison, a huge sports fan with a special love for basketball and the New York Knicks. I love following the NBA and sharing my passion for the game.',
-  bio: 'Originally from New Jersey, I’m currently in the AI in Biomedical and Health Sciences (AIBHS) program at the University of Florida. I’m interested in exploring how artificial intelligence can improve healthcare and patient outcomes.',
+  bio: 'Originally from New Jersey, I’m currently pursuing a master’s degree in the AI in Biomedical and Health Sciences (AIBHS) program at the University of Florida. I’m interested in exploring how artificial intelligence can improve healthcare and patient outcomes.',
   portrait: '',
   details: [{ label: 'My team', value: 'New York Knicks' }, { label: 'My game', value: 'Basketball' }, { label: 'Off the court', value: 'New Jersey roots · Studying at UF' }],
   hobbies: [
